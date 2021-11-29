@@ -17,7 +17,8 @@
     <h3>Besoin d'un bot ? </h3>
 </p>
 <p>
-    Et bien venez me contacter sur discord ou bien par mail = h4ck3r5pc@gmail.com
-    <a href="https://discord.gg/7vXFyXEhQS">serveur support</a>
+    Et bien venez me contacter sur discord ou bien par mail = h4ck3r5pc@gmail.com <br>
+    <a href="https://discord.gg/7vXFyXEhQS">serveur support si besoin </a><br>
+    
     
 </p>
