@@ -12,3 +12,12 @@
 <p>
     contactez moi via discord = 👑😈 𝕶𝖎𝖓𝖌𝕷𝖚𝖈𝖎𝖋𝖊𝖗 😈👑#8413 !!!
 </p>
+
+<p>
+    <h3>Besoin d'un bot ? </h3>
+</p>
+<p>
+    Et bien venez me contacter sur discord ou bien par mail = h4ck3r5pc@gmail.com
+    <a href="https://discord.gg/7vXFyXEhQS">serveur support</a>
+    
+</p>
