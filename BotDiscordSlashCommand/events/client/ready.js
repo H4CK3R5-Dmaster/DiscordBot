@@ -1,3 +1,4 @@
+
 module.exports = {
     name: "ready",
     execute(client) {
@@ -10,4 +11,5 @@ module.exports = {
         client.user.setActivity("vous tous !", {type: "WATCHING"});
     }
     
+
 }

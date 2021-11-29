@@ -12,7 +12,11 @@
     "@discordjs/rest": "^0.1.0-canary.0",
     "dayjs": "^1.10.7",
     "discord-api-types": "^0.24.0",
+<<<<<<< HEAD
     "discord.js": "^13.3.1",
+=======
+    "discord.js": "^13.2.0",
+>>>>>>> 70c51d807b44c7e393a0ded733f5401f49b0b230
     "emitters": "^0.1.0",
     "events": "^3.3.0",
     "fs": "^0.0.1-security",

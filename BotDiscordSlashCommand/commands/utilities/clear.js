@@ -1,3 +1,4 @@
+
 const { Client, CommandInteraction, MessageEmbed } = require('discord.js');
 
 module.exports = {
@@ -40,4 +41,5 @@ module.exports = {
             interaction.reply({embeds: [new MessageEmbed().setColor('GREEN').setDescription(`${Amount} ont été supprimé du ${Channel} !`)]})
         }
     }
+
 }

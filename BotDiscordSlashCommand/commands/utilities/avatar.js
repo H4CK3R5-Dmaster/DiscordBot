@@ -1,3 +1,4 @@
+
 const { Client, CommandInteraction, MessageEmbed } = require('discord.js');
 module.exports = {
     name: "avatar",
@@ -26,4 +27,5 @@ module.exports = {
 
         interaction.reply({embeds: [Respons]});
     }
+
 }

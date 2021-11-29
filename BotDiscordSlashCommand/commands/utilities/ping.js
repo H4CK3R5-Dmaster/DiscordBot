@@ -1,3 +1,4 @@
+
 const { MessageEmbed } = require('discord.js');
 
 module.exports = {
@@ -10,4 +11,5 @@ module.exports = {
         .setDescription(`${client.ws.ping}ms`);
         interaction.reply({embeds: [Response]});
     }
+
 }

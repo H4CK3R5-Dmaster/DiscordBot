@@ -1,3 +1,4 @@
+
 const { Client, CommandInteraction, MessageEmbed } = require("discord.js");
 
 module.exports = {
@@ -25,4 +26,5 @@ module.exports = {
             command.execute(client, interaction, arguments);
         }
     }
+
 }

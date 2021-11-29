@@ -1,3 +1,4 @@
+
 const { Client, CommandInteraction, MessageEmbed } = require('discord.js');
 const ms = require('ms')
 
@@ -79,5 +80,6 @@ module.exports = {
 
         interaction.reply({embeds: [new MessageEmbed().setColor('GREEN').setDescription(`${Target} a bien été mute pendant ${Time} | ||${Target.id}|| raison : ${Reason}`)]})
     }
+
 
 }

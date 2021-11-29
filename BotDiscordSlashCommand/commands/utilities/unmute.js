@@ -1,3 +1,4 @@
+
 const { Client, CommandInteraction, MessageEmbed } = require('discord.js');
 
 module.exports = {
@@ -30,4 +31,5 @@ module.exports = {
         interaction.reply({embeds: [new MessageEmbed().setColor('GREEN').setDescription(`${Target} a été unmute`)]});
 
     }
+
 }
