@@ -3,5 +3,8 @@
   <h1 align="center">DiscordBot</h1>
 </p>
 <p>
-    <h>Voici le code d'un slash commande pour votre serveur !!!!</h>
+    <h>Voici le code d'un slash commande pour votre serveur !!!! Profitez d'une multitude de commandes 😆 ! Surtout le code contient des fonctions de modération (ban, kick et etc...)</h>
+
+    <h2></h2>
+
 </p>
