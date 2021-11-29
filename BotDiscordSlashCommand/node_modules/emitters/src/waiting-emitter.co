@@ -1,0 +1,50 @@
+{EventEmitter} = require './emitter'
+
+/**
+ * @class An EventEmitter with a ratchet-up waiting counter.
+ * @extends Base
+ */
+class exports.WaitingEmitter extends EventEmitter
+    
+    /**
+     * Count of outstanding tasks.
+     * @type Number
+     */
+    _waitingOn : 0
+    
+    
+    /**
+     * Increment the waiting task counter.
+     * @returns {this}
+     */
+    wait: ->
+        count = @_waitingOn or 0
+        @_waitingOn += 1
+        # console.log("#this.wait! #count --> #{@_waitingOn}"); console.trace()
+        @trigger('start-waiting', this) if count is 0 and @_waitingOn > 0
+        this
+    
+    /**
+     * Decrement the waiting task counter.
+     * @returns {this}
+     */
+    unwait: ->
+        count = @_waitingOn or 0
+        @_waitingOn -= 1
+        # console.warn "#this.unwait! #{@_waitingOn} < 0" if @_waitingOn < 0
+        # console.log("#this.unwait! #count --> #{@_waitingOn}"); console.trace()
+        @trigger('stop-waiting', this) if @_waitingOn is 0 and count > 0
+        this
+    
+    /**
+     * @param {Function} fn Function to wrap.
+     * @returns {Function} A function wrapping the passed function with a call
+     *  to `unwait()`, then delegating with current context and arguments.
+     */
+    unwaitAnd: (fn) ->
+        self = this
+        ->
+            # console.log("#self.unwaitAnd( function #{fn.name or fn.displayName}() )"); console.trace()
+            self.unwait(); fn ...
+    
+

@@ -1,0 +1,9 @@
+require 'buildtools'
+
+task \build 'Build coco sources' ->
+    coco <[ -bjc package.co ]>
+    coco <[ -bc -o lib src ]>
+
+task \watch 'Watch sources for changes' ->
+    coco <[ -bcw -o lib src ]>
+
