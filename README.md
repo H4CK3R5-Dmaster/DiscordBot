@@ -25,6 +25,6 @@
     
 </p>
 
-A NE SURTOUT PAS UTILISER LE CODE POUR UNE FIN PAS ILLEGAL MERCI BIEN !!!!
+A NE SURTOUT PAS UTILISER LE CODE POUR UNE FIN ILLEGAL MERCI BIEN !!!!
 
 <img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" height="400" >
