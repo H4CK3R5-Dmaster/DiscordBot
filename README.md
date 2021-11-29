@@ -3,7 +3,7 @@
   <h1 align="center">DiscordBot</h1>
 </p>
 <p>
-    <p>Voici le code d'un slash commande pour votre serveur !!!! Profitez d'une multitude de commandes 😆 ! Surtout le code contient des fonctions de modération (ban, kick et etc...) /!\ à  ne pas oublier installez node.js 16.13 /!\</p><br>
+    <p>Voici le code d'un slash commande pour votre serveur !!!! Profitez d'une multitude de commandes 😆 ! Surtout le code contient des fonctions de modération (ban, kick et etc...)🤔 /!\ à  ne pas oublier installez node.js 16.13 /!\</p><br>
     <h2>En cas de problème:</h2>
 
 
@@ -14,7 +14,7 @@
 </p>
 
 <p>
-    <h3>Besoin d'un bot ? </h3>
+    <h3>Besoin d'un bot ? </h3><br>
 </p>
 <p>
     Et bien venez me contacter sur discord ou bien par mail = h4ck3r5pc@gmail.com <br><br>
@@ -22,4 +22,7 @@
     <a href="https://discord.gg/7vXFyXEhQS">serveur support</a><br>
     
     
+    
 </p>
+
+A NE SURTOUT PAS UTILISER LE CODE POUR UNE FIN PAS ILLEGAL MERCI BIEN !!!!
