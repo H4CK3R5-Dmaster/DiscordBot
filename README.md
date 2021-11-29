@@ -26,3 +26,5 @@
 </p>
 
 A NE SURTOUT PAS UTILISER LE CODE POUR UNE FIN PAS ILLEGAL MERCI BIEN !!!!
+
+<img src="https://tenor.com/bezWC.gif" width="100" height="100">
