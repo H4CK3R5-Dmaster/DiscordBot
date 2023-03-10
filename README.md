@@ -12,17 +12,6 @@
 
 
 
-<p>
-    <h3>Besoin d'un bot ? </h3><br>
-</p>
-<p>
-    
-    Vous pouvez demander une conception d'un bot avec une ou plusieurs fonctions et aussi une base de données<br><br>
-    <a href="https://discord.gg/7vXFyXEhQS">serveur support</a><br>
-    
-    
-    
-</p>
 
 A NE SURTOUT PAS UTILISER LE CODE POUR UNE FIN ILLEGAL MERCI BIEN !!!!
 
