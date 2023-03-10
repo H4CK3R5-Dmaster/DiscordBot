@@ -10,15 +10,13 @@
 
 </p>
 
-<p>
-    contactez moi via discord = [D3D53c]  𝕶𝖎𝖓𝖌𝕷𝖚𝖈𝖎𝖋𝖊𝖗#8413 !!!
-</p>
+
 
 <p>
     <h3>Besoin d'un bot ? </h3><br>
 </p>
 <p>
-    Et bien venez me contacter sur discord ou bien par mail = h4ck3r5pc@gmail.com <br><br>
+    
     Vous pouvez demander une conception d'un bot avec une ou plusieurs fonctions et aussi une base de données<br><br>
     <a href="https://discord.gg/7vXFyXEhQS">serveur support</a><br>
     
