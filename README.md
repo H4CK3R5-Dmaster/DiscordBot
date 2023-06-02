@@ -5,7 +5,7 @@
 <p>
     <p>Voici le code d'un slash commande pour votre serveur !!!! Profitez d'une multitude de commandes 😆 ! Surtout le code contient des fonctions de modération (ban, kick et etc...)🤔 /!\ à  ne pas oublier installez node.js 16.13 /!\</p><br>
     <p>Vérifiez chaque fichiers vous devrez remplir certains endroits pour le fonctionnement du bot (je vous ai laissé des commentaires aux endroits à remplacer)</p><br>
-    <h2>En cas de problème:</h2>
+    
 
 
 </p>
